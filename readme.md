@@ -1,2 +1,0 @@
-# BrickBreaker Game
-
